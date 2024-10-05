@@ -1,0 +1,1267 @@
+commit 113a5933f1568d4beea33fce63eb46834d5a2d24
+Author: juliaceliberti <juliaceliberti@gmail.com>
+Date:   Mon Oct 16 14:17:13 2023 +0800
+
+    finalised readme
+
+commit e10cd6011f4c4324363caec42a1975854dfa7b68
+Author: wilma shields <104485359+SHIELDSINATOR@users.noreply.github.com>
+Date:   Mon Oct 16 13:50:54 2023 +0800
+
+    Edit of documentation for face_compare.py
+
+commit e51e1f10db0fe843aa174b6b986676e4ea7d1856
+Author: wilma shields <104485359+SHIELDSINATOR@users.noreply.github.com>
+Date:   Mon Oct 16 13:41:23 2023 +0800
+
+    remove liveliness test prompt
+
+commit 10f5987ebbc02d06e362bae0c6f27944c8d4317d
+Merge: a2b4a7e cd691b3
+Author: wilma shields <104485359+SHIELDSINATOR@users.noreply.github.com>
+Date:   Mon Oct 16 13:37:12 2023 +0800
+
+    Merge branch 'main' of https://github.com/AbhinavDevelops/Facial-ID-and-Document-Scanning
+
+commit a2b4a7e1283a2c9604be791b78c8f87c73122b29
+Author: wilma shields <104485359+SHIELDSINATOR@users.noreply.github.com>
+Date:   Mon Oct 16 13:36:48 2023 +0800
+
+    remove webcam test
+
+commit cd691b3ad5dc59e13a0d8b19f79da8d5e43860b1
+Merge: f5ff2a1 6bacb1d
+Author: juliaceliberti <juliaceliberti@gmail.com>
+Date:   Mon Oct 16 13:32:54 2023 +0800
+
+    Merge branch 'main' of https://github.com/AbhinavDevelops/Facial-ID-and-Document-Scanning
+
+commit f5ff2a1c4bc92aff44f937a009c5563ccbb74dc4
+Author: juliaceliberti <juliaceliberti@gmail.com>
+Date:   Mon Oct 16 13:32:46 2023 +0800
+
+    Fixed error in readme
+
+commit 6bacb1d0a5b4441930858d764149f4b4d82b1999
+Author: wilma shields <104485359+SHIELDSINATOR@users.noreply.github.com>
+Date:   Mon Oct 16 13:30:37 2023 +0800
+
+    Removing liveliness testing from readmes
+
+commit d28ae6d0e623d69f51c5f9e1dd0bdbc7fb7ad863
+Merge: c973945 f157199
+Author: juliaceliberti <juliaceliberti@gmail.com>
+Date:   Mon Oct 16 13:21:15 2023 +0800
+
+    Merge branch 'main' of https://github.com/AbhinavDevelops/Facial-ID-and-Document-Scanning
+
+commit c9739459ec15ebe65c85c009f2a2afcc87a2f101
+Author: juliaceliberti <juliaceliberti@gmail.com>
+Date:   Mon Oct 16 13:21:09 2023 +0800
+
+    added documentation to liveliness_check.py
+
+commit f157199504fdd3f1f0339e784540874c33bd9278
+Author: mattmasel <94439034+mattmasel@users.noreply.github.com>
+Date:   Mon Oct 16 13:15:48 2023 +0800
+
+    removed mock_liveliness function and redundant imports
+
+commit f0d846d93c61a0368e3490aed1a5810b40dc6a96
+Author: mattmasel <94439034+mattmasel@users.noreply.github.com>
+Date:   Mon Oct 16 13:12:10 2023 +0800
+
+    hotfix pathing
+
+commit dde31fa92c71eb69fe58a8d9d65ae7218fb605e2
+Author: Abhinav Rajaram <abhin2@MacBook-Air.local>
+Date:   Mon Oct 16 12:57:23 2023 +0800
+
+    changed some indentations
+
+commit 9896f299d40786b37358601b68c3a5927094a3e0
+Merge: 6c10a5c 99b2fd9
+Author: Abhinav Rajaram <127012307+AbhinavDevelops@users.noreply.github.com>
+Date:   Mon Oct 16 12:04:42 2023 +0800
+
+    Merge pull request #21 from AbhinavDevelops/documentation
+    
+    Documentation
+
+commit 99b2fd992905da614e0d7258382d9186e0ddc253
+Merge: 5e7a7cd 6c10a5c
+Author: Abhinav Rajaram <127012307+AbhinavDevelops@users.noreply.github.com>
+Date:   Mon Oct 16 12:03:54 2023 +0800
+
+    Merge branch 'main' into documentation
+
+commit 5e7a7cd18f8a14ff076171d406d1d6302ae0f267
+Author: wilma shields <104485359+SHIELDSINATOR@users.noreply.github.com>
+Date:   Mon Oct 16 10:34:27 2023 +0800
+
+    Amendment to include ali's text
+
+commit a39cff0646e0fcace6f80301bd34e710931c4216
+Author: wilma shields <104485359+SHIELDSINATOR@users.noreply.github.com>
+Date:   Mon Oct 16 10:32:22 2023 +0800
+
+    Added liveliness tests to readme
+
+commit 6c10a5cf0e892620c947fa465673724c564d697f
+Author: wilma shields <104485359+SHIELDSINATOR@users.noreply.github.com>
+Date:   Mon Oct 16 10:03:21 2023 +0800
+
+    Modification to error message
+    
+    To past acceptance test 6.
+
+commit 6c3b4c64bf1ed4fa58a9b36c5ee3870587397076
+Author: Gihad Coorey <gihadc003@gmail.com>
+Date:   Mon Oct 16 01:18:16 2023 +0800
+
+    y'all gotta stop with the bugs man
+
+commit 218f669a70591ed651e2aea48c6481ed79b213ad
+Merge: a60cfb4 ab8a469
+Author: Gihad Coorey <gihadc003@gmail.com>
+Date:   Mon Oct 16 00:58:43 2023 +0800
+
+    Merge branch 'hotfix'
+
+commit ab8a469c6e7710020107a5bf953a64329fe473e6
+Author: Gihad Coorey <gihadc003@gmail.com>
+Date:   Mon Oct 16 00:55:45 2023 +0800
+
+    fixed left hand/right hand bug in gesture recog
+
+commit a60cfb449e2679032e37e36afecffdd7158e38ee
+Merge: 9b8edae 0d785a3
+Author: mattmasel <94439034+mattmasel@users.noreply.github.com>
+Date:   Sun Oct 15 23:11:34 2023 +0800
+
+    Merge pull request #20 from AbhinavDevelops/refactor/gesture_direction
+    
+    bugfixing hand gestures (left and right)
+
+commit 0d785a38d2628b849026ae8875d802993f63b9d2
+Author: juliaceliberti <juliaceliberti@gmail.com>
+Date:   Sun Oct 15 22:55:55 2023 +0800
+
+    bugfixing hand gestures (left and right)
+
+commit 9b8edaefc500baeb15c2c202eed1e655dd4247a9
+Author: mattmasel <94439034+mattmasel@users.noreply.github.com>
+Date:   Sun Oct 15 22:43:43 2023 +0800
+
+    fixed not None logic in show face comparison
+
+commit 6040ebe5e74d0ddb650adebdce23b208805a820b
+Author: juliaceliberti <juliaceliberti@gmail.com>
+Date:   Sun Oct 15 22:15:15 2023 +0800
+
+    Added dev notes to readme
+
+commit 6774bebb7a84adcc59d211d449e1f04b383d0a14
+Author: mattmasel <94439034+mattmasel@users.noreply.github.com>
+Date:   Sun Oct 15 22:11:58 2023 +0800
+
+    moved show face compare function out of main
+
+commit 314462a4bea64bdb1eed93903046ffe1b79d023e
+Author: wilma shields <104485359+SHIELDSINATOR@users.noreply.github.com>
+Date:   Sun Oct 15 22:02:08 2023 +0800
+
+    Update main.py
+
+commit ab186e1fb30d11581a6c5b195d9ddf46397ad7d3
+Author: mattmasel <94439034+mattmasel@users.noreply.github.com>
+Date:   Sun Oct 15 22:02:16 2023 +0800
+
+    fixed name error with extract face
+
+commit 022027956a899cd958aff52873b16b478c227a0f
+Author: mattmasel <94439034+mattmasel@users.noreply.github.com>
+Date:   Sun Oct 15 21:59:52 2023 +0800
+
+    added face compare visualization
+
+commit 97949b0a756a39ff9871cc23d1af6623cd8ca535
+Author: mattmasel <94439034+mattmasel@users.noreply.github.com>
+Date:   Sun Oct 15 21:24:23 2023 +0800
+
+    fixed path issue with gesture model
+
+commit ab80c33aa2a8291b9a9c5f7777278ebfc52fe4f7
+Merge: c7c6c98 df746d9
+Author: Biggums Cheese <93088463+Moobnaster96@users.noreply.github.com>
+Date:   Sun Oct 15 21:06:25 2023 +0800
+
+    Merge pull request #19 from AbhinavDevelops/hotfix
+    
+    fixed bug in passive check
+
+commit df746d99c0a19fd2e1d07f30a7806fdc929f21a6
+Author: Gihad Coorey <gihadc003@gmail.com>
+Date:   Sun Oct 15 21:05:53 2023 +0800
+
+    fixed bug in passive check
+
+commit c7c6c9864b4cbf33fdfc16c7832898705b67d787
+Author: Gihad Coorey <gihadc003@gmail.com>
+Date:   Sun Oct 15 20:51:21 2023 +0800
+
+    minor fixes
+
+commit 476ee6e7591f7401daa9660cd32e53b09b928ed3
+Author: Biggums Cheese <93088463+Moobnaster96@users.noreply.github.com>
+Date:   Sun Oct 15 20:35:05 2023 +0800
+
+    Delete liveliness_check/example_main.py
+
+commit ae5e15f34478ca133c6b80da6a48b8aefbf86730
+Merge: dd5bede 005212a
+Author: Biggums Cheese <93088463+Moobnaster96@users.noreply.github.com>
+Date:   Sun Oct 15 20:32:57 2023 +0800
+
+    Merge pull request #18 from AbhinavDevelops/refactor/liveliness
+    
+    Refactor/liveliness
+
+commit 005212aa45d461fd48f064988551df5fb561daaa
+Author: Gihad Coorey <gihadc003@gmail.com>
+Date:   Sun Oct 15 19:57:59 2023 +0800
+
+    fixed commit issue
+
+commit d27f634742f2ab03b544acd35b9ab352050bf092
+Author: Gihad Coorey <gihadc003@gmail.com>
+Date:   Sun Oct 15 19:53:05 2023 +0800
+
+    fixed commit issue
+
+commit 2faa1896d29be472ca985b06006f1aa01d8677b1
+Merge: 3aedb2e 3404a72
+Author: Biggums Cheese <93088463+Moobnaster96@users.noreply.github.com>
+Date:   Sun Oct 15 19:35:36 2023 +0800
+
+    Merge pull request #17 from AbhinavDevelops/gihads_refactor
+    
+    Gihads gesture recog refactor
+
+commit 3404a7230212e1601774e0a075ea575b3fa9ab3e
+Merge: 07e6be8 3aedb2e
+Author: Biggums Cheese <93088463+Moobnaster96@users.noreply.github.com>
+Date:   Sun Oct 15 19:35:26 2023 +0800
+
+    Merge branch 'refactor/liveliness' into gihads_refactor
+
+commit 07e6be89596fa0dea0095e255c76345a94201213
+Author: Gihad Coorey <gihadc003@gmail.com>
+Date:   Sun Oct 15 19:29:40 2023 +0800
+
+    gesture recog works! somebody stop me
+
+commit f3dc85fd782d1e1b0ff18fdeaa1403a23cfcd8d2
+Author: Gihad Coorey <gihadc003@gmail.com>
+Date:   Sun Oct 15 18:51:44 2023 +0800
+
+    better working gesture tester
+
+commit 59afd5e5e8923150d6f7e7f362faf91e56f113e5
+Author: Gihad Coorey <gihadc003@gmail.com>
+Date:   Sun Oct 15 18:17:38 2023 +0800
+
+    rerefactoring liveliness_check.py
+
+commit 51e9f98a4ba6087870b770a1245974c6e26f2d43
+Author: wilma shields <104485359+SHIELDSINATOR@users.noreply.github.com>
+Date:   Sun Oct 15 15:18:20 2023 +0800
+
+    Update readme.md
+    
+    Slight error JPEG instead of jpg
+
+commit 3aedb2e3786dd6adc8a6278f9ff7d79f87eac171
+Author: wilma shields <104485359+SHIELDSINATOR@users.noreply.github.com>
+Date:   Sun Oct 15 15:17:23 2023 +0800
+
+    Changed MrMasel_DELETE.jpg to TEST_IMAGE.JPG
+
+commit bd1fc429e57f10a09492557d820afa3b7fef7185
+Author: wilma shields <104485359+SHIELDSINATOR@users.noreply.github.com>
+Date:   Sun Oct 15 15:14:50 2023 +0800
+
+    Update readme.md
+    
+    Some edits
+
+commit 3b885c3b756599a6d687ca63a82602bdf8e3df6d
+Author: juliaceliberti <juliaceliberti@gmail.com>
+Date:   Sun Oct 15 14:48:25 2023 +0800
+
+    Completed another edit of readme
+
+commit aa807e52a06b264c8d2ebdde2501af9541e7904d
+Merge: 26be88d 99674f4
+Author: juliaceliberti <juliaceliberti@gmail.com>
+Date:   Sun Oct 15 14:15:13 2023 +0800
+
+    Merge branch 'refactor/liveliness'
+
+commit 26be88d8b25e9604348945b6cda2edcdd10c8e55
+Author: juliaceliberti <juliaceliberti@gmail.com>
+Date:   Sun Oct 15 14:08:44 2023 +0800
+
+    Added instructions for user in main and liveliness
+
+commit e0a799b38b05c008481d7b9bf2a4e1fa1c3774d2
+Author: wilma shields <104485359+SHIELDSINATOR@users.noreply.github.com>
+Date:   Sun Oct 15 14:06:50 2023 +0800
+
+    Updates to both readme files
+
+commit 99674f48aff109c5b229352de414a186ed422596
+Author: wilma shields <104485359+SHIELDSINATOR@users.noreply.github.com>
+Date:   Sun Oct 15 10:07:20 2023 +0800
+
+    Update liveliness_check.py
+
+commit 1ec13a19b5046ab9905fc5f0d881cd8d913a4b97
+Author: wilma shields <104485359+SHIELDSINATOR@users.noreply.github.com>
+Date:   Sun Oct 15 09:20:39 2023 +0800
+
+    Reinstating model
+
+commit 621bf856e76331a5dbd884239c2448181047854e
+Author: wilma shields <104485359+SHIELDSINATOR@users.noreply.github.com>
+Date:   Sun Oct 15 08:46:13 2023 +0800
+
+    Update liveliness_check.py
+    
+    minor fix
+
+commit 46abae641fff03b5790aaf5cf842bf4160abea00
+Author: Gihad Coorey <gihadc003@gmail.com>
+Date:   Sat Oct 14 00:16:55 2023 +0800
+
+    fixed endless loop bug when quitting active check
+
+commit 6d6fa475276ed3a4b2556de994c4d7c376180f74
+Author: Gihad Coorey <gihadc003@gmail.com>
+Date:   Fri Oct 13 23:35:48 2023 +0800
+
+    fixed infinite blink hack
+
+commit 4ec01cf73f7ae78238cb776c24e632762b047672
+Author: wilma shields <104485359+SHIELDSINATOR@users.noreply.github.com>
+Date:   Fri Oct 13 11:10:01 2023 +0800
+
+    Update liveliness_check.py
+    
+    british english!!! I'm also trying to bugfix
+
+commit a75e1d646852e6fea1a28969eb5ece666dc9a30a
+Author: wilma shields <104485359+SHIELDSINATOR@users.noreply.github.com>
+Date:   Fri Oct 13 10:30:19 2023 +0800
+
+    Update liveliness_check.py
+    
+    Spelling mistake
+
+commit bf46851d703025cfa11daa982aab234d5f479858
+Author: wilma shields <104485359+SHIELDSINATOR@users.noreply.github.com>
+Date:   Fri Oct 13 10:25:20 2023 +0800
+
+    Update liveliness_check.py
+    
+    Small correction to a comment
+
+commit 3f631f7fe0af978f6d9288fcac20841f7710f98d
+Author: wilma shields <104485359+SHIELDSINATOR@users.noreply.github.com>
+Date:   Fri Oct 13 10:00:01 2023 +0800
+
+    Cleaning up some logic
+    
+    Main function provides some explanation for face comparison.
+
+commit be36a5e610b8c4efa832666cab3c65888f8daf72
+Author: wilma shields <104485359+SHIELDSINATOR@users.noreply.github.com>
+Date:   Fri Oct 13 09:41:10 2023 +0800
+
+    Update liveliness_check.py
+    
+    Reinstated printing how many tries are left
+
+commit 4a4fbcb60e67302910d5d492b72872b49dc3553e
+Merge: af00416 37a0e59
+Author: juliaceliberti <juliaceliberti@gmail.com>
+Date:   Thu Oct 12 22:23:23 2023 +0800
+
+    Merge branch 'refactor/liveliness' of https://github.com/AbhinavDevelops/Facial-ID-and-Document-Scanning into refactor/liveliness
+
+commit af004162fc0214e5828b47af1501c642ec3ac39b
+Author: juliaceliberti <juliaceliberti@gmail.com>
+Date:   Thu Oct 12 22:20:02 2023 +0800
+
+    Active liveliness now passes on first success
+
+commit 37a0e59ee547175ac151797c61dce47f274f18b2
+Author: wilma shields <104485359+SHIELDSINATOR@users.noreply.github.com>
+Date:   Thu Oct 12 21:19:17 2023 +0800
+
+    Update liveliness_check.py
+    
+    Include a more detailed message :)
+
+commit f7c0bb82be9ca50d1917978df7a0d74e0ceb43a8
+Author: juliaceliberti <juliaceliberti@gmail.com>
+Date:   Thu Oct 12 18:33:09 2023 +0800
+
+    Edited readme (errors, added target audience)
+
+commit 1132762d4c46c0b72fd694ff830a200e6ca690d0
+Author: wilma shields <104485359+SHIELDSINATOR@users.noreply.github.com>
+Date:   Thu Oct 12 18:31:21 2023 +0800
+
+    Update liveliness_check.py
+    
+    Minor change to print number of allowed tries when terminating the active liveliness check
+
+commit c1f3ba15aaf86e13e47b003ce0444a5743d56102
+Author: wilma shields <104485359+SHIELDSINATOR@users.noreply.github.com>
+Date:   Thu Oct 12 18:26:16 2023 +0800
+
+    Update liveliness_check.py
+    
+    Active liveliness check ends if the number of prompts received exceeds the MAX_NUM__ACTIVE_TRIES variable.
+
+commit b43dcc26bf655ee8e3b6c6b149cf782eb4b8edb5
+Author: juliaceliberti <juliaceliberti@gmail.com>
+Date:   Thu Oct 12 18:08:46 2023 +0800
+
+    Added documentation to relevant scripts
+
+commit 37281af2876976ee2a8c7edaf4b7398662f6a3e7
+Author: wilma shields <104485359+SHIELDSINATOR@users.noreply.github.com>
+Date:   Thu Oct 12 17:45:42 2023 +0800
+
+    Fixes to unit tests after model fix
+    
+    Removed the path for the model from all uses of extract_face() function
+
+commit e34a37108bb16a059605d61a47aaa8038bac0b8a
+Author: matt masel <94439034+mattmasel@users.noreply.github.com>
+Date:   Thu Oct 12 17:40:46 2023 +0800
+
+    fixed issue with paths
+
+commit afa722cec2eeb5ee041a3aaa45d30358f6803cc0
+Author: wilma shields <104485359+SHIELDSINATOR@users.noreply.github.com>
+Date:   Thu Oct 12 17:12:09 2023 +0800
+
+    Very minor updates
+    
+    Removed a couple of redundant lines
+
+commit 2d384b287b954b0e73092bfb4c1c1c481eceb64b
+Author: mattmasel <94439034+mattmasel@users.noreply.github.com>
+Date:   Thu Oct 12 12:38:50 2023 +0800
+
+    removed thumbs up and peace from gestures
+
+commit 70a1f83569d15b96e87d332a7c0dd3fac7405750
+Author: mattmasel <94439034+mattmasel@users.noreply.github.com>
+Date:   Thu Oct 12 11:48:55 2023 +0800
+
+    need to move video processing out of each function
+
+commit a616353dd61c80c0eea0525fbaefd2bfc733336c
+Author: mattmasel <94439034+mattmasel@users.noreply.github.com>
+Date:   Thu Oct 12 10:25:16 2023 +0800
+
+    modified path to the gesture recognizer and removed unecessary packages fro mrequirements.txt
+
+commit cf9064c3bc07b3a4beb9148958decdb2b99b5906
+Author: mattmasel <94439034+mattmasel@users.noreply.github.com>
+Date:   Thu Oct 12 00:57:07 2023 +0800
+
+    added liveliness_check function to main, working other than active test
+
+commit 5f7b65769632602acd165dd381468548407295e3
+Author: mattmasel <94439034+mattmasel@users.noreply.github.com>
+Date:   Thu Oct 12 00:46:38 2023 +0800
+
+    need to fix active liveliness
+
+commit 3d67d77c5bdcac6e332d78edae5ae041c353a61b
+Author: mattmasel <94439034+mattmasel@users.noreply.github.com>
+Date:   Thu Oct 12 00:14:11 2023 +0800
+
+    returns image, of mesh and face need to fix
+
+commit 809d7b986e010cc066e77e9e50787fca32df342d
+Author: mattmasel <94439034+mattmasel@users.noreply.github.com>
+Date:   Wed Oct 11 23:33:10 2023 +0800
+
+    removed example_main
+
+commit 694c5dbdb5633fbd5dfa49b0af3e2ff8075d1e40
+Author: mattmasel <94439034+mattmasel@users.noreply.github.com>
+Date:   Wed Oct 11 23:08:19 2023 +0800
+
+    attempting to fix active liveliness
+
+commit d9b6ad6ef619f937fcc2cf06012621113e9c06eb
+Author: mattmasel <94439034+mattmasel@users.noreply.github.com>
+Date:   Wed Oct 11 22:30:56 2023 +0800
+
+    timer working now, not recognizing gestures anymore
+
+commit d78747f849764e387bf671b8eb9474622c2a1fa8
+Author: mattmasel <94439034+mattmasel@users.noreply.github.com>
+Date:   Wed Oct 11 22:22:03 2023 +0800
+
+    got countdown working but goes into negative now...
+
+commit 026936f2ce52404ae8012f6cf88dd54681ffeed8
+Author: mattmasel <94439034+mattmasel@users.noreply.github.com>
+Date:   Wed Oct 11 22:13:51 2023 +0800
+
+    need to stop continuous text scrolling
+
+commit 47dd875ba3130af33340ca10fd6c609be9528c27
+Author: matt masel <94439034+mattmasel@users.noreply.github.com>
+Date:   Wed Oct 11 20:12:30 2023 +0800
+
+    moved constants to top of file
+
+commit dd5bede9e584988794ae981b05b0ae526923a235
+Merge: 61f3f54 52c6901
+Author: juliaceliberti <juliaceliberti@gmail.com>
+Date:   Wed Oct 11 17:11:44 2023 +0800
+
+    Merge branch 'main' of https://github.com/AbhinavDevelops/Facial-ID-and-Document-Scanning
+
+commit 61f3f5435a35987791bef83fd97a5eaeb84db439
+Author: juliaceliberti <juliaceliberti@gmail.com>
+Date:   Wed Oct 11 17:11:25 2023 +0800
+
+    Added extra attributions to readme
+
+commit 52c6901a917a9f1eccc6e718a9407670bf4cdcaa
+Author: wilma shields <104485359+SHIELDSINATOR@users.noreply.github.com>
+Date:   Wed Oct 11 17:09:27 2023 +0800
+
+    Cleaning up test README
+
+commit 96e0c90b1c5919af32a5c34028ee034440b2f53e
+Author: juliaceliberti <juliaceliberti@gmail.com>
+Date:   Wed Oct 11 16:53:30 2023 +0800
+
+    Deleted old files - clearned up liveliness folder
+
+commit 4272effee6ad8a4c7c94975d46abc2cd2b8c79d5
+Author: mattmasel <94439034+mattmasel@users.noreply.github.com>
+Date:   Wed Oct 11 16:44:13 2023 +0800
+
+    deleted env file
+
+commit 2ca85736c076c9150e6a96f43ec35a5dce78a178
+Author: mattmasel <94439034+mattmasel@users.noreply.github.com>
+Date:   Wed Oct 11 16:43:06 2023 +0800
+
+    deleted old file
+
+commit 49a4761502312105abad4fccab74e575bc4982ba
+Author: mattmasel <94439034+mattmasel@users.noreply.github.com>
+Date:   Wed Oct 11 16:41:24 2023 +0800
+
+    added todo list
+
+commit 2355eca67c674c733383fff6615bf97c71d4a06d
+Author: mattmasel <94439034+mattmasel@users.noreply.github.com>
+Date:   Wed Oct 11 16:27:16 2023 +0800
+
+    fixed merge
+
+commit a33a1c3dbd4a046afdab5cef672088401ba18654
+Merge: 6265cfc 65c09d8
+Author: mattmasel <94439034+mattmasel@users.noreply.github.com>
+Date:   Wed Oct 11 16:21:08 2023 +0800
+
+    Merge pull request #16 from AbhinavDevelops/develop
+    
+    Develop: Merging develop with main
+
+commit 65c09d86820d4a5ff3d0057b9e6a658b2c511b37
+Merge: 3b64fe6 6265cfc
+Author: mattmasel <94439034+mattmasel@users.noreply.github.com>
+Date:   Wed Oct 11 16:17:10 2023 +0800
+
+    attempting to merge develop into main
+
+commit 6265cfc4292594e3fa23796b2d5837402513c88a
+Merge: aea0106 e0fb8aa
+Author: wilma shields <104485359+SHIELDSINATOR@users.noreply.github.com>
+Date:   Wed Oct 11 15:01:44 2023 +0800
+
+    Merge pull request #15 from AbhinavDevelops/testing/face-compare-new
+    
+    Testing/face compare new
+
+commit e0fb8aa92d8598c2d667139669ea3f9be25f3bb5
+Merge: 22c7f31 aea0106
+Author: wilma shields <104485359+SHIELDSINATOR@users.noreply.github.com>
+Date:   Wed Oct 11 15:01:18 2023 +0800
+
+    Merge branch 'main' into testing/face-compare-new
+
+commit 22c7f312f41592ab41b35be5bce3ceb0f50d5237
+Author: wilma shields <104485359+SHIELDSINATOR@users.noreply.github.com>
+Date:   Wed Oct 11 10:52:25 2023 +0800
+
+    Update test_face_compare.py
+    
+    Minor updates
+
+commit 3b64fe6961515e2ce6015d4f5c35dfca1a6bfb3d
+Author: wilma shields <104485359+SHIELDSINATOR@users.noreply.github.com>
+Date:   Wed Oct 11 10:48:24 2023 +0800
+
+    Updates to standard readme and test README
+    
+    Moving over readme additions for the face comparison test from the test branch.
+
+commit 281a281413dc99d2cbb64e5dbc3c3c7e2bd3af70
+Author: wilma shields <104485359+SHIELDSINATOR@users.noreply.github.com>
+Date:   Wed Oct 11 10:24:14 2023 +0800
+
+    Update test_face_compare.py
+    
+    Minor update
+
+commit 8bf7273a1967c0ae950f820307ab1bc8c9caf85b
+Author: juliaceliberti <juliaceliberti@gmail.com>
+Date:   Tue Oct 10 20:20:49 2023 +0800
+
+    Bigfix - MPipe Windows bug, changed path to buffer
+
+commit d5811e965d70b9aa76e4217e24e2b3b60245a528
+Author: Abhinav Rajaram <abhin2@MacBook-Air.local>
+Date:   Tue Oct 10 00:41:19 2023 +0800
+
+    rectange code by itself
+
+commit 6b79828ecc42acc1662cfc0f8bc6321174849f6b
+Author: Abhinav Rajaram <abhin2@MacBook-Air.local>
+Date:   Tue Oct 10 00:39:42 2023 +0800
+
+    tampered with settings and integrated blink detection with rectangle checking
+
+commit 64ad4d2d7aa6f82137aff04f8acc83ccd71512b8
+Author: juliaceliberti <juliaceliberti@gmail.com>
+Date:   Sun Oct 8 18:41:53 2023 +0800
+
+    Added scalability and deployment (& security)
+
+commit 2b78900ae271db12a42dd5905effd7ba682f3fd7
+Author: Gihad Coorey <gihadc003@gmail.com>
+Date:   Sat Oct 7 15:38:28 2023 +0800
+
+    more cleanup
+
+commit 9da578d3ada424470c87305ef5b64727c8ea2b94
+Author: Gihad Coorey <gihadc003@gmail.com>
+Date:   Sat Oct 7 15:29:31 2023 +0800
+
+    cleaned up prompt function
+
+commit d86297d82dc899513b02225c21e9b912a55bd45e
+Author: Gihad Coorey <gihadc003@gmail.com>
+Date:   Sat Oct 7 15:22:59 2023 +0800
+
+    added example main.py for liveliness checking
+
+commit e5947e44262867666a4b228d24f0a606baaca490
+Author: Gihad Coorey <gihadc003@gmail.com>
+Date:   Sat Oct 7 14:59:29 2023 +0800
+
+    cleaning up:
+
+commit 6cdf9c7324534d17dbfe992762c7754755ce7c79
+Author: Gihad Coorey <gihadc003@gmail.com>
+Date:   Sat Oct 7 14:19:21 2023 +0800
+
+    more modularising
+
+commit 79b4afcda79999af9a1ba0ebb0fdd38ba9205fa3
+Author: Gihad Coorey <gihadc003@gmail.com>
+Date:   Sat Oct 7 03:45:06 2023 +0800
+
+    modularising
+
+commit e0e5d9dcd11f1531e917bf9ef50a430aa8105dbc
+Author: Gihad Coorey <gihadc003@gmail.com>
+Date:   Fri Oct 6 16:01:39 2023 +0800
+
+    removing debugs
+
+commit 8ac8c9ae7a5ba7540137ea81fa8c193bfd3b629a
+Author: Gihad Coorey <gihadc003@gmail.com>
+Date:   Fri Oct 6 15:52:03 2023 +0800
+
+    liveliness with 0 modularisation
+
+commit c9aaeff96367793dbb97504918cdddfb0205633f
+Author: Gihad Coorey <gihadc003@gmail.com>
+Date:   Fri Oct 6 14:38:14 2023 +0800
+
+    consolidating liveliness scripts
+
+commit 03083eb8127814e9ec0bb1d797cd34f198817d0a
+Author: Gihad Coorey <gihadc003@gmail.com>
+Date:   Tue Oct 3 18:07:29 2023 +0800
+
+    fixing variable names
+
+commit aea01062e908711dc1b06558faec3f6b30d31c69
+Merge: 5d01411 56dc5cb
+Author: Abhinav Rajaram <127012307+AbhinavDevelops@users.noreply.github.com>
+Date:   Fri Oct 6 08:27:55 2023 +0800
+
+    Merge pull request #13 from AbhinavDevelops/feature-rectangle_box
+    
+    Feature rectangle box
+
+commit 56dc5cb3ae7e7d2c403a46930e7defcccac85bcf
+Author: Abhinav Rajaram <abhin2@192-168-1-104.tpgi.com.au>
+Date:   Fri Oct 6 08:27:19 2023 +0800
+
+    wrote python code for rectangle checking
+
+commit ecc511bf52001859adf5d7dfe7c7a37d0088b585
+Author: juliaceliberti <juliaceliberti@gmail.com>
+Date:   Thu Oct 5 21:09:59 2023 +0800
+
+    Changed windows troubleshooting and added image
+
+commit 5d014117484ac6096c5a650c297fe7a3d9c53091
+Merge: c351251 b83c9b0
+Author: mattmasel <94439034+mattmasel@users.noreply.github.com>
+Date:   Thu Oct 5 20:52:34 2023 +0800
+
+    Merge pull request #12 from AbhinavDevelops/hotfix/remove_ipython_package
+    
+    commented out ipython display
+
+commit b83c9b0685dc34f27eef56eef1eb075952ba182e
+Author: matt masel <94439034+mattmasel@users.noreply.github.com>
+Date:   Thu Oct 5 20:51:57 2023 +0800
+
+    commented out ipython display
+
+commit 77d1a4c419763e5b3346feac759f282746922aa7
+Author: juliaceliberti <juliaceliberti@gmail.com>
+Date:   Thu Oct 5 20:11:22 2023 +0800
+
+    Added troubleshooting for wsl to readme
+
+commit a6984f588a1071e61b84e240507cce9f77a37f27
+Author: Gihad Coorey <gihadc003@gmail.com>
+Date:   Wed Oct 4 16:45:38 2023 +0800
+
+    playing around with blink ratios
+
+commit f499aa57d36fbacea950fbaad93fd615fd1f66a2
+Author: wilma shields <104485359+SHIELDSINATOR@users.noreply.github.com>
+Date:   Wed Oct 4 12:49:34 2023 +0800
+
+    Updates to test_face_compare.py, and readme scripts
+    
+    - Minor update to comment on py script
+    - Added test to main readme.md
+    - Added test to the smaller, test README.md
+
+commit 7b40c03774370129967df0906e68258aa26bef13
+Author: wilma shields <104485359+SHIELDSINATOR@users.noreply.github.com>
+Date:   Wed Oct 4 12:34:30 2023 +0800
+
+    Update to test_face_compare.py and test_faces update
+    
+    - Added face extractor to test_face_compare.py
+    - Standardised each person folder to only have 2 images each
+    - Person one folder has 2 different people in it now
+
+commit e35af84542b8c6dc960fb7d562940ffcd1c47ce9
+Author: wilma shields <104485359+SHIELDSINATOR@users.noreply.github.com>
+Date:   Wed Oct 4 11:34:57 2023 +0800
+
+    Update test_face_compare.py
+    
+    Accidentally deleted import face_compare
+
+commit d7542c4fcf0160604ec835503466297ff4b3425d
+Author: wilma shields <104485359+SHIELDSINATOR@users.noreply.github.com>
+Date:   Wed Oct 4 11:32:45 2023 +0800
+
+    Update test_face_compare.py
+    
+    Re-did the unit test
+
+commit 14f12c3d547567d7af1d03cf3aee2df7782cc281
+Author: wilma shields <104485359+SHIELDSINATOR@users.noreply.github.com>
+Date:   Wed Oct 4 10:31:42 2023 +0800
+
+    Create new testing branch
+    
+    The old testing/face-compare branch was based on an outdated branch. This new branch is just a copy and paste of its files.
+
+commit 7c10601e777ef1ca2aa9e83934f32e539d26bdb0
+Author: Gihad Coorey <gihadc003@gmail.com>
+Date:   Tue Oct 3 19:08:38 2023 +0800
+
+    ugly ass UI but blink counter counts blinks
+
+commit 9d72c4c7a89c78368bb61f284ed8914aa9c43f05
+Author: Gihad Coorey <gihadc003@gmail.com>
+Date:   Tue Oct 3 18:04:37 2023 +0800
+
+    blink AGGRESSIVELY
+
+commit 670882e0abd49f8d75eda1512f55dcc8ba38fb55
+Author: Gihad Coorey <gihadc003@gmail.com>
+Date:   Mon Oct 2 17:52:04 2023 +0800
+
+    minor error handling
+
+commit c3512518d12ee72a1a7d198735bc0c7be919ad1f
+Merge: ca33e55 d43a772
+Author: mattmasel <94439034+mattmasel@users.noreply.github.com>
+Date:   Mon Oct 2 12:47:56 2023 +0800
+
+    Merge pull request #11 from AbhinavDevelops/hotfix/main_print_output
+    
+    fixed print statement to indicate true or false
+
+commit d43a7726408752c184a5be788e8b274d47b64999
+Author: mattmasel <94439034+mattmasel@users.noreply.github.com>
+Date:   Mon Oct 2 12:48:38 2023 +0800
+
+    fixed print statement to indicate true or false
+
+commit ca33e552cd82b6d4caf220518feb56eb1104a4e3
+Merge: 32df9c0 5d4aedb
+Author: mattmasel <94439034+mattmasel@users.noreply.github.com>
+Date:   Sun Oct 1 20:00:48 2023 +0800
+
+    Merge pull request #10 from AbhinavDevelops/hotfix/requirements.txt
+    
+    added new version of mediapipe, still need to delete redundant packages before handover
+
+commit 5d4aedb06482a1f0ceaf3d0aa56a6c96b5e6c694
+Author: mattmasel <94439034+mattmasel@users.noreply.github.com>
+Date:   Sun Oct 1 20:00:32 2023 +0800
+
+    added new version of mediapipe
+
+commit 32df9c072b2beb78996495e95d1bf65514021627
+Author: mattmasel <94439034+mattmasel@users.noreply.github.com>
+Date:   Sun Oct 1 18:48:17 2023 +0800
+
+    hotfixed bug with face_compare
+
+commit 65393be12d5ca11a615a83ae9f43aceeb55ec4f8
+Merge: 21b057f 861d1a1
+Author: mattmasel <94439034+mattmasel@users.noreply.github.com>
+Date:   Sun Oct 1 18:18:22 2023 +0800
+
+    Merge pull request #9 from AbhinavDevelops/hotfix/os_paths
+    
+    Hotfix/os paths
+
+commit 861d1a1203bd3f96746313341cfa6300491b920c
+Author: mattmasel <94439034+mattmasel@users.noreply.github.com>
+Date:   Sun Oct 1 18:18:30 2023 +0800
+
+    removed main function from face_compare.py
+
+commit 8e8b67e7427d091d12460f9d8f2195f281ecc530
+Author: mattmasel <94439034+mattmasel@users.noreply.github.com>
+Date:   Sun Oct 1 18:13:17 2023 +0800
+
+    added os paths to paths
+
+commit 21b057fa4ddeb3bbd5628b41f8479161a088509f
+Merge: 2d811e2 7a8c05d
+Author: mattmasel <94439034+mattmasel@users.noreply.github.com>
+Date:   Sun Oct 1 18:01:02 2023 +0800
+
+    Merge pull request #8 from AbhinavDevelops/hotfix/face_compare
+    
+    Hotfix/face compare
+
+commit 7a8c05d0a4d594ff4cb7c333c90af907b421c828
+Author: mattmasel <94439034+mattmasel@users.noreply.github.com>
+Date:   Sun Oct 1 17:59:47 2023 +0800
+
+    fixed issue with face_compare not loading from root
+
+commit d63198c01b9633597630c2e596ec728312af23c0
+Author: mattmasel <94439034+mattmasel@users.noreply.github.com>
+Date:   Sun Oct 1 17:08:05 2023 +0800
+
+    added test file in root directory
+
+commit 2d811e215b0702bc8191bcc27f78dff864615447
+Merge: 9086692 278b9e3
+Author: juliaceliberti <85933390+juliaceliberti@users.noreply.github.com>
+Date:   Sun Oct 1 14:41:27 2023 +0800
+
+    Merge pull request #7 from AbhinavDevelops/feature/face-compare
+    
+    Feature/face compare
+
+commit 90866926113d2f38245b2eaaffc308e8fc9c7cbd
+Merge: 585e7bf 8315072
+Author: mattmasel <94439034+mattmasel@users.noreply.github.com>
+Date:   Sun Oct 1 14:31:41 2023 +0800
+
+    Merge pull request #6 from AbhinavDevelops/feature/id-extractor
+    
+    added larger border to the extracted face
+
+commit 7c07516e68eecf8c5dd0702476c00aa7f71d0b24
+Author: mattmasel <94439034+mattmasel@users.noreply.github.com>
+Date:   Sun Oct 1 14:28:24 2023 +0800
+
+    troubleshooting liveliness path
+
+commit e433db42e3f4e56dc531df18a73eff7753baddf0
+Author: juliaceliberti <juliaceliberti@gmail.com>
+Date:   Sat Sep 30 20:08:38 2023 +0800
+
+    Added print stm.s to handle outcomes of face extr
+
+commit 609b2176412d7a734c6fe04d81a1fde5d0dc1715
+Author: Abhinav Rajaram <abhin2@MacBook-Air.local>
+Date:   Sat Sep 30 17:30:37 2023 +0800
+
+    started blink detection code
+
+commit 5fbee730ea8d16f5d6ebdb9a001b5fedb59b5510
+Author: Abhinav Rajaram <abhin2@MacBook-Air.local>
+Date:   Sat Sep 30 16:19:11 2023 +0800
+
+    import dlib
+
+commit 88f922eb3799f05ebf6b529cc4d852d2b2f6a51b
+Author: Gihad Coorey <gihadc003@gmail.com>
+Date:   Thu Sep 28 14:43:37 2023 +0800
+
+    git problems once again :/
+
+commit a5c431406d09cfa90813604a60290f44979a71eb
+Author: Gihad Coorey <gihadc003@gmail.com>
+Date:   Thu Sep 28 14:23:24 2023 +0800
+
+    buggy livestream gesture recog
+
+commit ec69c212a0433f4486b956333c2889dd895d17ae
+Author: Gihad Coorey <gihadc003@gmail.com>
+Date:   Tue Sep 19 16:03:52 2023 +0800
+
+    added some more gestures
+
+commit 8ffdb74857f1ecf17bb47cda2bc86fae0a616152
+Author: juliaceliberti <juliaceliberti@gmail.com>
+Date:   Thu Sep 28 10:36:06 2023 +0800
+
+    Integrated anti-spoof segments into other features
+
+commit e847f45ba3d9118cb73d9b854ef3aed9cf0d5a44
+Author: juliaceliberti <juliaceliberti@gmail.com>
+Date:   Wed Sep 27 16:03:36 2023 +0800
+
+    Completed all feature descriptions and testing
+
+commit 121aa31044d63102809426b1dcfee407566aa398
+Author: juliaceliberti <juliaceliberti@gmail.com>
+Date:   Wed Sep 27 10:45:35 2023 +0800
+
+    Added additional sections & wrote user navigation
+
+commit 278b9e3a02bccbf9d167338779b0798b635c5c48
+Author: Abhinav Rajaram <abhin2@MacBook-Air.local>
+Date:   Thu Sep 21 19:39:13 2023 +0800
+
+    face_compare python code added
+
+commit e7f231b03944d12171d67bfcfb914de56b679f8a
+Author: mattmasel <94439034+mattmasel@users.noreply.github.com>
+Date:   Mon Sep 18 13:40:50 2023 +0800
+
+    added face recognition package to requirements
+
+commit 9ad76506641f2ba759606939e83c003e6ef197dd
+Author: mattmasel <94439034+mattmasel@users.noreply.github.com>
+Date:   Mon Sep 18 13:39:25 2023 +0800
+
+    get the face compare working when using my ID and my face
+
+commit 2c21df678b1585a4a405eb45d55d83cb0f15b828
+Author: juliaceliberti <juliaceliberti@gmail.com>
+Date:   Mon Sep 18 12:26:20 2023 +0800
+
+    Added overview, feature, prereq, install to readme
+
+commit 73f359be6f0213eece2116073fd77f8dafce9dde
+Author: Biggums Cheese <93088463+Moobnaster96@users.noreply.github.com>
+Date:   Mon Sep 18 02:45:09 2023 +0800
+
+    Delete gesture_recognizer.task
+
+commit 199331ccabcfc5d3d245b1ee3e52de1895326a4c
+Author: Biggums Cheese <93088463+Moobnaster96@users.noreply.github.com>
+Date:   Mon Sep 18 02:44:55 2023 +0800
+
+    Add files via upload
+
+commit 971b4be5580dbc7a70963dc6abae240e8a533234
+Author: Biggums Cheese <93088463+Moobnaster96@users.noreply.github.com>
+Date:   Mon Sep 18 02:40:32 2023 +0800
+
+    adding .task file manually coz git problems
+
+commit f194f13a1394d50b4b22882a305d530792d980dc
+Author: Biggums Cheese <93088463+Moobnaster96@users.noreply.github.com>
+Date:   Mon Sep 18 02:28:13 2023 +0800
+
+    added basic gesture checker
+    
+    the code is horrible and cluttered...but it works
+
+commit 8315072eae75189df86734d0395c833c4dc3fde2
+Author: matt masel <94439034+mattmasel@users.noreply.github.com>
+Date:   Sun Sep 17 21:27:14 2023 +0800
+
+    added larger border to the extracted face
+
+commit 0db6fcd7cd3740e9f7705ce4bf4af2828e8ee9fc
+Author: juliaceliberti <juliaceliberti@gmail.com>
+Date:   Sun Sep 17 12:09:47 2023 +0800
+
+    fixed venv activation instruction in readme
+
+commit c72419be01e92a3614bccba366e848b6428d0ec9
+Author: Julia Celiberti <juliaceliberti@gmail.com>
+Date:   Sun Sep 10 21:37:28 2023 +0800
+
+    Draft test_webcam_liveliness and restructured the liveliness_skeleton file
+
+commit 585e7bf712b19aab121cf4a69a34140e68aab81d
+Merge: 2f26e0e b03f156
+Author: Biggums Cheese <93088463+Moobnaster96@users.noreply.github.com>
+Date:   Sat Sep 9 16:24:34 2023 +0800
+
+    Merge pull request #3 from AbhinavDevelops/develop
+    
+    new branch for liveness check to align with gitflow conventions
+
+commit b03f1562144067f4fb8c39e82c585b2003e61df6
+Author: Gihad Coorey <gihadc003@gmail.com>
+Date:   Sat Sep 9 15:59:10 2023 +0800
+
+    new branch for liveness check to align with gitflow conventions
+
+commit 2f26e0e8e3a5278aa617ca43bf1dea1e9e448754
+Author: mattmasel <94439034+mattmasel@users.noreply.github.com>
+Date:   Wed Aug 30 16:59:44 2023 +0800
+
+    Update readme.md
+
+commit c097c7a827b5ad6269eb5457943e7847ad4f634a
+Author: mattmasel <94439034+mattmasel@users.noreply.github.com>
+Date:   Wed Aug 30 16:58:42 2023 +0800
+
+    Update readme.md
+
+commit 0b2ad3c6aa3d7ee1aa11a6dd9084e7c2a9f7e4e9
+Author: mattmasel <94439034+mattmasel@users.noreply.github.com>
+Date:   Wed Aug 30 16:58:02 2023 +0800
+
+    Update and rename readme.txt to readme.md
+    
+    Changed to markdown and added basic instructions
+
+commit bd791293b7f319921116f5e18dc1ea941f8398e0
+Merge: 925c76d bb6316d
+Author: Abhinav Rajaram <127012307+AbhinavDevelops@users.noreply.github.com>
+Date:   Wed Aug 30 16:39:46 2023 +0800
+
+    Merge pull request #2 from AbhinavDevelops/abs_facial_code
+    
+    Abs facial code
+
+commit bb6316dc032036166039747bc7b2eb47d6e99ce8
+Author: Abhinav Rajaram <abhin2@MacBook-Air.local>
+Date:   Wed Aug 30 16:38:58 2023 +0800
+
+    removed notebook functionality for matt masel in particular
+
+commit 925c76da503fc8f47f60ec5e06f39594e1b21bc2
+Merge: a31a2f7 eaff6e9
+Author: mattmasel <94439034+mattmasel@users.noreply.github.com>
+Date:   Wed Aug 30 16:32:33 2023 +0800
+
+    Merge pull request #1 from AbhinavDevelops/feature/face-extractor
+    
+    Feature/face extractor
+
+commit 85332ecaa1ea2a112c16a020370ea50d591c50fe
+Author: Abhinav Rajaram <abhin2@192-168-1-110.tpgi.com.au>
+Date:   Wed Aug 30 02:20:54 2023 +0800
+
+    removed my license lmao
+
+commit 32f9833722f0e84b9883998544545bdc2245c76d
+Author: Abhinav Rajaram <abhin2@192-168-1-110.tpgi.com.au>
+Date:   Wed Aug 30 02:18:26 2023 +0800
+
+    wrote complete code for livestream facial detection - Abhinav
+
+commit eaff6e9c1c7b8d02b9a3d9412c855e9e4867f63a
+Author: matt masel <94439034+mattmasel@users.noreply.github.com>
+Date:   Tue Aug 29 22:59:26 2023 +0800
+
+    removed visualize_image from face_extraction module and added it to tests
+
+commit d952f50a865ab8bbf8d7412773f4133ae5082f5a
+Author: matt masel <94439034+mattmasel@users.noreply.github.com>
+Date:   Tue Aug 29 22:22:03 2023 +0800
+
+    added instructions for tests
+
+commit 6e46e8ea7afb9e7d3f919f657b64f5c321909630
+Author: matt masel <94439034+mattmasel@users.noreply.github.com>
+Date:   Tue Aug 29 22:14:32 2023 +0800
+
+    added visualization to face extractor test
+
+commit 73ef3069d4fd8de2e753fe9afacc7168d595a7a1
+Author: matt masel <94439034+mattmasel@users.noreply.github.com>
+Date:   Tue Aug 29 21:44:11 2023 +0800
+
+    added working test and face_detector now selects highest probability face
+
+commit 3a6b969dd415266b62e4fbe364c89d8195753f9e
+Author: mattmasel <94439034+mattmasel@users.noreply.github.com>
+Date:   Tue Aug 29 16:36:06 2023 +0800
+
+    moved test id from root to test_ids folder
+
+commit f270b623ff5c3333fc8c4e43d40a54e527dddcca
+Author: mattmasel <94439034+mattmasel@users.noreply.github.com>
+Date:   Tue Aug 29 16:34:48 2023 +0800
+
+    renamed some image files and tested with multiple ids
+
+commit c546a072cd3bc3d16fca1984d27b54d91193c25a
+Author: Abhinav Rajaram <abhin2@MacBook-Air.local>
+Date:   Tue Aug 29 15:24:07 2023 +0800
+
+    preliminary work can ignore
+
+commit f3efeff20347ff122ecfcf10e80592dc84b53686
+Author: mattmasel <94439034+mattmasel@users.noreply.github.com>
+Date:   Tue Aug 29 15:14:46 2023 +0800
+
+    removed redundant rgb conversion and put visualization in its own function
+
+commit cdf8040f85d2018042badf99f4f7c8dbe41bdc48
+Author: mattmasel <94439034+mattmasel@users.noreply.github.com>
+Date:   Tue Aug 29 13:52:19 2023 +0800
+
+    added tests directory but need to complete the tests
+
+commit 498fbdced78893530679b59ec84580a5f1f47a97
+Author: mattmasel <94439034+mattmasel@users.noreply.github.com>
+Date:   Tue Aug 29 12:36:52 2023 +0800
+
+    moved images to root directory and renamed test_ids and added tests folder to root
+
+commit c34abaa34da0aea56103acda144c5927e6e000d2
+Author: mattmasel <94439034+mattmasel@users.noreply.github.com>
+Date:   Tue Aug 29 12:29:29 2023 +0800
+
+    changed function description to return cropped image
+
+commit 03e791f2bc5c3d5b82dd2d6ff7a577e201db8d3c
+Author: mattmasel <94439034+mattmasel@users.noreply.github.com>
+Date:   Mon Aug 28 14:28:30 2023 +0800
+
+    reconfigured directory, added directory for face_extractor module, cleaned up root directory
+
+commit dde4aed52c8fd73d81b8f680f5069106b897f4eb
+Author: mattmasel <94439034+mattmasel@users.noreply.github.com>
+Date:   Mon Aug 28 12:40:55 2023 +0800
+
+    restructured face_extractor into a main .py
+
+commit c280a20d63d8fcce1b0ebac41b27b6bbcb2e2880
+Author: mattmasel <94439034+mattmasel@users.noreply.github.com>
+Date:   Mon Aug 28 12:33:41 2023 +0800
+
+    renamed function to be more explanatory
+
+commit b262279136bfc19d178eba9976574f46efb263c2
+Merge: 66f3553 597af91
+Author: wilma shields <104485359+SHIELDSINATOR@users.noreply.github.com>
+Date:   Mon Aug 28 12:25:31 2023 +0800
+
+    Merge branch 'feature/face-extractor' of https://github.com/AbhinavDevelops/Facial-ID-and-Document-Scanning into feature/face-extractor
+
+commit 597af911e65eee46f50ab5a882c88b79c76ac18b
+Author: mattmasel <94439034+mattmasel@users.noreply.github.com>
+Date:   Mon Aug 28 12:16:59 2023 +0800
+
+    added print statement showing probability
+
+commit 66f3553605d775851022aa3cb2371f511d370404
+Author: wilma shields <104485359+SHIELDSINATOR@users.noreply.github.com>
+Date:   Mon Aug 28 12:14:08 2023 +0800
+
+    Update face_detection_utils.py
+    
+    Provisional condition to see if face is greater than 80%
+
+commit edaa49874b8dc22ef16079a1a50ddc73f02f16a7
+Author: mattmasel <94439034+mattmasel@users.noreply.github.com>
+Date:   Mon Aug 28 12:07:23 2023 +0800
+
+    removed annotations and boarder, now just cropped image is returned
+
+commit 0afff5747752ceaa1f6705ead6aa3e0dcd2d700d
+Author: mattmasel <94439034+mattmasel@users.noreply.github.com>
+Date:   Mon Aug 28 11:29:13 2023 +0800
+
+    added mediapipe face extractor template
+
+commit a31a2f7ebfaa29322c99181f515923729eac5955
+Author: mattmasel <94439034+mattmasel@users.noreply.github.com>
+Date:   Fri Aug 25 16:26:26 2023 +0800
+
+    Create .gitignore
+    
+    Added a .gitignore for python so that the large virtual environment files do not get uploaded to GitHub. Now all that will get uploaded it the requirements.txt, which can be used to download the necessary files to run the program.
+
+commit c95bd4d9f39d8d7cef1f67b4c619affc32458243
+Author: Abhinav Rajaram <abhin2@MacBook-Air.local>
+Date:   Mon Jul 31 11:54:00 2023 +0800
+
+    code to draw greenline around a face if it is detected
+
+commit 14e525a6aa23b0e279feae26fa73b5e13bd60296
+Author: Abhinav Rajaram <abhin2@MacBook-Air.local>
+Date:   Mon Jul 31 10:34:07 2023 +0800
+
+    first commit

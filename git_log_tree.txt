@@ -1,0 +1,297 @@
+* 113a593 finalised readme
+* e10cd60 Edit of documentation for face_compare.py
+* e51e1f1 remove liveliness test prompt
+*   10f5987 Merge branch 'main' of https://github.com/AbhinavDevelops/Facial-ID-and-Document-Scanning
+|\  
+| *   cd691b3 Merge branch 'main' of https://github.com/AbhinavDevelops/Facial-ID-and-Document-Scanning
+| |\  
+| * | f5ff2a1 Fixed error in readme
+* | | a2b4a7e remove webcam test
+| |/  
+|/|   
+* | 6bacb1d Removing liveliness testing from readmes
+|/  
+*   d28ae6d Merge branch 'main' of https://github.com/AbhinavDevelops/Facial-ID-and-Document-Scanning
+|\  
+| * f157199 removed mock_liveliness function and redundant imports
+* | c973945 added documentation to liveliness_check.py
+|/  
+* f0d846d hotfix pathing
+* dde31fa changed some indentations
+*   9896f29 Merge pull request #21 from AbhinavDevelops/documentation
+|\  
+| *   99b2fd9 Merge branch 'main' into documentation
+| |\  
+| |/  
+|/|   
+* | 6c10a5c Modification to error message
+* | 6c3b4c6 y'all gotta stop with the bugs man
+* |   218f669 Merge branch 'hotfix'
+|\ \  
+| * | ab8a469 fixed left hand/right hand bug in gesture recog
+* | |   a60cfb4 Merge pull request #20 from AbhinavDevelops/refactor/gesture_direction
+|\ \ \  
+| * | | 0d785a3 bugfixing hand gestures (left and right)
+* | | | 9b8edae fixed not None logic in show face comparison
+|/ / /  
+* | | 6774beb moved show face compare function out of main
+| | * 5e7a7cd Amendment to include ali's text
+| | * a39cff0 Added liveliness tests to readme
+| | * 6040ebe Added dev notes to readme
+| | * 51e9f98 Update readme.md
+| | * bd1fc42 Update readme.md
+| | * 3b885c3 Completed another edit of readme
+| | * e0a799b Updates to both readme files
+| | * f7c0bb8 Edited readme (errors, added target audience)
+| | * b43dcc2 Added documentation to relevant scripts
+| | | * 713ff8f Rolling back change
+| | | * afda027 Modify liveliness_check.py
+| | | * 1d16165 remove videos and update test readme
+| | | * 053a00e updating eye detection test with videos
+| | | * 928f3f3 update code
+| | | * 826904a updated
+| | | * df59d48 liveliness test
+| |_|/  
+|/| |   
+* | | 314462a Update main.py
+* | | ab186e1 fixed name error with extract face
+* | | 0220279 added face compare visualization
+|/ /  
+* | 97949b0 fixed path issue with gesture model
+* |   ab80c33 Merge pull request #19 from AbhinavDevelops/hotfix
+|\ \  
+| * | df746d9 fixed bug in passive check
+|/ /  
+* | c7c6c98 minor fixes
+* | 476ee6e Delete liveliness_check/example_main.py
+* |   ae5e15f Merge pull request #18 from AbhinavDevelops/refactor/liveliness
+|\ \  
+| |/  
+|/|   
+| | * c9dabdc test blink detection
+| | * fab081d draft liveliness test
+| |/  
+| * 005212a fixed commit issue
+| * d27f634 fixed commit issue
+| *   2faa189 Merge pull request #17 from AbhinavDevelops/gihads_refactor
+| |\  
+| | *   3404a72 Merge branch 'refactor/liveliness' into gihads_refactor
+| | |\  
+| | |/  
+| |/|   
+| * | 3aedb2e Changed MrMasel_DELETE.jpg to TEST_IMAGE.JPG
+| * |   aa807e5 Merge branch 'refactor/liveliness'
+| |\ \  
+| | * | 99674f4 Update liveliness_check.py
+| | * | 1ec13a1 Reinstating model
+| | * | 621bf85 Update liveliness_check.py
+| * | | 26be88d Added instructions for user in main and liveliness
+| | | * 07e6be8 gesture recog works! somebody stop me
+| | | * f3dc85f better working gesture tester
+| | | * 59afd5e rerefactoring liveliness_check.py
+| | | * 46abae6 fixed endless loop bug when quitting active check
+| | | * 6d6fa47 fixed infinite blink hack
+| | |/  
+| | * 4ec01cf Update liveliness_check.py
+| | * a75e1d6 Update liveliness_check.py
+| | * bf46851 Update liveliness_check.py
+| | * 3f631f7 Cleaning up some logic
+| | * be36a5e Update liveliness_check.py
+| |/  
+| *   4a4fbcb Merge branch 'refactor/liveliness' of https://github.com/AbhinavDevelops/Facial-ID-and-Document-Scanning into refactor/liveliness
+| |\  
+| | * 37a0e59 Update liveliness_check.py
+| * | af00416 Active liveliness now passes on first success
+| |/  
+| * 1132762 Update liveliness_check.py
+| * c1f3ba1 Update liveliness_check.py
+| * 37281af Fixes to unit tests after model fix
+| * e34a371 fixed issue with paths
+| * afa722c Very minor updates
+| * 2d384b2 removed thumbs up and peace from gestures
+| * 70a1f83 need to move video processing out of each function
+| * a616353 modified path to the gesture recognizer and removed unecessary packages fro mrequirements.txt
+| * cf9064c added liveliness_check function to main, working other than active test
+| * 5f7b657 need to fix active liveliness
+| * 3d67d77 returns image, of mesh and face need to fix
+| * 809d7b9 removed example_main
+| * 694c5db attempting to fix active liveliness
+| * d9b6ad6 timer working now, not recognizing gestures anymore
+| * d78747f got countdown working but goes into negative now...
+| * 026936f need to stop continuous text scrolling
+| * 47dd875 moved constants to top of file
+|/  
+*   dd5bede Merge branch 'main' of https://github.com/AbhinavDevelops/Facial-ID-and-Document-Scanning
+|\  
+| * 52c6901 Cleaning up test README
+* | 61f3f54 Added extra attributions to readme
+|/  
+* 96e0c90 Deleted old files - clearned up liveliness folder
+* 4272eff deleted env file
+* 2ca8573 deleted old file
+* 49a4761 added todo list
+* 2355eca fixed merge
+*   a33a1c3 Merge pull request #16 from AbhinavDevelops/develop
+|\  
+| *   65c09d8 attempting to merge develop into main
+| |\  
+| |/  
+|/|   
+* |   6265cfc Merge pull request #15 from AbhinavDevelops/testing/face-compare-new
+|\ \  
+| * \   e0fb8aa Merge branch 'main' into testing/face-compare-new
+| |\ \  
+| |/ /  
+|/| |   
+* | |   aea0106 Merge pull request #13 from AbhinavDevelops/feature-rectangle_box
+|\ \ \  
+| * | | 56dc5cb wrote python code for rectangle checking
+| * | | a6984f5 playing around with blink ratios
+| * | | 7c10601 ugly ass UI but blink counter counts blinks
+| * | | 9d72c4c blink AGGRESSIVELY
+| * | | 609b217 started blink detection code
+| * | | 5fbee73 import dlib
+* | | |   5d01411 Merge pull request #12 from AbhinavDevelops/hotfix/remove_ipython_package
+|\ \ \ \  
+| * | | | b83c9b0 commented out ipython display
+|/ / / /  
+| | * | 22c7f31 Update test_face_compare.py
+| | * | 281a281 Update test_face_compare.py
+| | * | f499aa5 Updates to test_face_compare.py, and readme scripts
+| | * | 7b40c03 Update to test_face_compare.py and test_faces update
+| | * | e35af84 Update test_face_compare.py
+| | * | d7542c4 Update test_face_compare.py
+| | * | 14f12c3 Create new testing branch
+| |/ /  
+|/| |   
+* | |   c351251 Merge pull request #11 from AbhinavDevelops/hotfix/main_print_output
+|\ \ \  
+| * | | d43a772 fixed print statement to indicate true or false
+|/ / /  
+* | |   ca33e55 Merge pull request #10 from AbhinavDevelops/hotfix/requirements.txt
+|\ \ \  
+| * | | 5d4aedb added new version of mediapipe
+|/ / /  
+* | | 32df9c0 hotfixed bug with face_compare
+* | |   65393be Merge pull request #9 from AbhinavDevelops/hotfix/os_paths
+|\ \ \  
+| * | | 861d1a1 removed main function from face_compare.py
+| * | | 8e8b67e added os paths to paths
+|/ / /  
+* | |   21b057f Merge pull request #8 from AbhinavDevelops/hotfix/face_compare
+|\ \ \  
+| * | | 7a8c05d fixed issue with face_compare not loading from root
+| * | | d63198c added test file in root directory
+|/ / /  
+* | |   2d811e2 Merge pull request #7 from AbhinavDevelops/feature/face-compare
+|\ \ \  
+* \ \ \   9086692 Merge pull request #6 from AbhinavDevelops/feature/id-extractor
+|\ \ \ \  
+| * | | | 8315072 added larger border to the extracted face
+|/ / / /  
+| | | | * dbdaf48 update testing module
+| | | | * c8ea16a testing eye blink detector
+| | | | * 2ff7c1a testing eye blink
+| | | | * c56cf8a testing eye blink detector
+| | | |/  
+| | | * 3b64fe6 Updates to standard readme and test README
+| | | * 8bf7273 Bigfix - MPipe Windows bug, changed path to buffer
+| | | * d5811e9 rectange code by itself
+| | | * 6b79828 tampered with settings and integrated blink detection with rectangle checking
+| | | * 64ad4d2 Added scalability and deployment (& security)
+| | | * 2b78900 more cleanup
+| | | * 9da578d cleaned up prompt function
+| | | * d86297d added example main.py for liveliness checking
+| | | * e5947e4 cleaning up:
+| | | * 6cdf9c7 more modularising
+| | | * 79b4afc modularising
+| | | * e0e5d9d removing debugs
+| | | * 8ac8c9a liveliness with 0 modularisation
+| | | * c9aaeff consolidating liveliness scripts
+| | | * 03083eb fixing variable names
+| | | * ecc511b Changed windows troubleshooting and added image
+| | | * 77d1a4c Added troubleshooting for wsl to readme
+| | | * 670882e minor error handling
+| | | * 7c07516 troubleshooting liveliness path
+| | | * e433db4 Added print stm.s to handle outcomes of face extr
+| | |/  
+| | * 88f922e git problems once again :/
+| | * a5c4314 buggy livestream gesture recog
+| | * ec69c21 added some more gestures
+| | * 8ffdb74 Integrated anti-spoof segments into other features
+| | * e847f45 Completed all feature descriptions and testing
+| | * 121aa31 Added additional sections & wrote user navigation
+| | * 2c21df6 Added overview, feature, prereq, install to readme
+| | * 73f359b Delete gesture_recognizer.task
+| | * 199331c Add files via upload
+| | * 971b4be adding .task file manually coz git problems
+| | * f194f13 added basic gesture checker
+| | * 0db6fcd fixed venv activation instruction in readme
+| | * c72419b Draft test_webcam_liveliness and restructured the liveliness_skeleton file
+| |/  
+|/|   
+| | * 1963f02 Create test for liveliness
+| |/  
+|/|   
+| | * efd974f tried to change threshold to fix blink but not work
+| | * d189d23 added blink detection
+| |/  
+| | * 3d2e36d More images + Draft visualiser
+| | * 670a553 Update test_face_compare.py
+| | * f43a727 Added Test Faces
+| | * 1882c4a Create test_face_compare.py
+| |/  
+| * 278b9e3 face_compare python code added
+| * e7f231b added face recognition package to requirements
+| * 9ad7650 get the face compare working when using my ID and my face
+|/  
+| * ebfe49f combined weasel and I's code, megamind bug needs to be fixed
+| * be6d08e added timing function
+| | * cb0450a Altered code in the face_extraction folder
+| | * 7c0643d Update gui_runner.py
+| | * ca3455f Update gui_runner.py
+| | * 2c28fe1 Demo GUI branch
+| |/  
+|/|   
+* |   585e7bf Merge pull request #3 from AbhinavDevelops/develop
+|\ \  
+| |/  
+|/|   
+| * b03f156 new branch for liveness check to align with gitflow conventions
+|/  
+* 2f26e0e Update readme.md
+* c097c7a Update readme.md
+* 0b2ad3c Update and rename readme.txt to readme.md
+*   bd79129 Merge pull request #2 from AbhinavDevelops/abs_facial_code
+|\  
+| * bb6316d removed notebook functionality for matt masel in particular
+| * 85332ec removed my license lmao
+| * 32f9833 wrote complete code for livestream facial detection - Abhinav
+| * c546a07 preliminary work can ignore
+| * c95bd4d code to draw greenline around a face if it is detected
+* |   925c76d Merge pull request #1 from AbhinavDevelops/feature/face-extractor
+|\ \  
+| * | eaff6e9 removed visualize_image from face_extraction module and added it to tests
+| * | d952f50 added instructions for tests
+| * | 6e46e8e added visualization to face extractor test
+| * | 73ef306 added working test and face_detector now selects highest probability face
+| * | 3a6b969 moved test id from root to test_ids folder
+| * | f270b62 renamed some image files and tested with multiple ids
+| * | f3efeff removed redundant rgb conversion and put visualization in its own function
+| * | cdf8040 added tests directory but need to complete the tests
+| * | 498fbdc moved images to root directory and renamed test_ids and added tests folder to root
+| * | c34abaa changed function description to return cropped image
+| * | 03e791f reconfigured directory, added directory for face_extractor module, cleaned up root directory
+| * | dde4aed restructured face_extractor into a main .py
+| * | c280a20 renamed function to be more explanatory
+| * |   b262279 Merge branch 'feature/face-extractor' of https://github.com/AbhinavDevelops/Facial-ID-and-Document-Scanning into feature/face-extractor
+| |\ \  
+| | * | 597af91 added print statement showing probability
+| * | | 66f3553 Update face_detection_utils.py
+| |/ /  
+| * | edaa498 removed annotations and boarder, now just cropped image is returned
+| * | 0afff57 added mediapipe face extractor template
+|/ /  
+* / a31a2f7 Create .gitignore
+|/  
+* 14e525a first commit
